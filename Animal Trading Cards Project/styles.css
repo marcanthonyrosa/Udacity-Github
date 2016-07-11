@@ -1,0 +1,36 @@
+img {
+  width: 300px;
+}
+
+.card {
+  width:300px;
+  border: 1px solid #E6E6E6;
+  padding: 0px 10px 10px 10px;
+  box-shadow: 5px 5px 1px  #E6E6E6;
+  border-radius: 3px;
+}
+
+.detailsCard {
+  border: 1px solid #E6E6E6;
+  padding: 10px;
+  font-size:80%;
+  border-radius: 3px;
+}
+
+.fact {
+  font-style:italic;
+}
+
+ul {
+  padding: 0px;
+  list-style: none;
+}
+
+ul span {
+  font-weight: bold;
+}
+
+img {
+  margin-bottom: 10px;
+  border-radius: 3px;
+}
